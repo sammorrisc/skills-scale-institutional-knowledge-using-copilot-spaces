@@ -75,7 +75,96 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Change Manager
+
+### Role Summary
+Oversees all aspects of change requests, ensuring timely review, stakeholder communication, and compliance with process controls. Collaborates with Project Manager on risk assessment.
+
+### Responsibilities
+- Collect and document all requested changes
+- Assess impacts and risks of proposed changes
+- Communicate change process to all stakeholders
+- Coordinate approval and roll-out of changes
+
+### Goals
+- Minimize disruption from changes
+- Ensure traceable decision-making
+
+### Typical Communication
+- Change request logs
+- Change impact analyses
+- Stakeholder updates
+
+### Interactions
+- Works closely with Project Manager, QA Lead, Stakeholders
+
+---
+
+## Quality Assurance Lead
+
+### Role Summary
+Defines project-specific quality benchmarks, plans test phases, and confirms deliverables meet criteria before release. Works with technical leads and project managers.
+
+### Responsibilities
+- Develop and oversee testing strategies
+- Conduct QA reviews at key project stages
+- Track, report, and communicate issues and improvements
+
+### Goals
+- Maintain high quality and reliability in deliverables
+
+### Typical Communication
+- Test plans and reports
+- Quality review sessions
+
+### Interactions
+- Collaborates with Developers, PM, and Change Manager
+
+---
+
+## Communication Coordinator
+
+### Role Summary
+Manages communication plans, maintains project documentation, and facilitates information flow between teams, leadership, and external stakeholders.
+
+### Responsibilities
+- Draft project communications and updates
+- Maintain project wiki and documentation
+- Coordinate meeting schedules and agendas
+
+### Goals
+- Ensure all parties are informed and engaged
+
+### Typical Communication
+- Newsletters, emails, status updates
+
+### Interactions
+- Interfaces with all team members, especially PM, PdM
+
+---
+
+## Business Analyst
+
+### Role Summary
+Documents business requirements, translates them into actionable tasks for teams, and ensures alignment between stakeholder needs and project scope.
+
+### Responsibilities
+- Gather and clarify stakeholder requirements
+- Author business requirement documents (BRDs)
+- Conduct gap analyses
+
+### Goals
+- Ensure project solutions meet business needs
+
+### Typical Communication
+- Requirement workshops
+- User stories and acceptance criteria
+
+### Interactions
+- Works with PdM, PM, Developers, Stakeholders
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
