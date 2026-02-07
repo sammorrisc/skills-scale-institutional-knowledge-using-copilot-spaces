@@ -18,6 +18,9 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- Change Manager: manages change process and approvals.
+- Communication Coordinator: maintains project communications and documentation.
+- Business Analyst: clarifies requirements, ensures business fit.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
@@ -26,6 +29,8 @@ Applies to all cross-functional projects that deliver product features, services
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
 - Risk Register
+- Change Request Log
+- Stakeholder Communication Plan
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)
@@ -40,7 +45,9 @@ Applies to all cross-functional projects that deliver product features, services
 - Twice-weekly standups for delivery team (or as agreed)
 - Monthly stakeholder updates
 - Ad-hoc escalations as needed
+- Immediate notification for major/approved changes
 
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Use the attached templates for risk, change, and communication management.
